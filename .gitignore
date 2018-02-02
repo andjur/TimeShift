@@ -9,3 +9,5 @@ TimeShift/obj/Debug/TimeShift.pdb
 TimeShift/obj/Debug/TimeShift.exe
 TimeShift/obj/Debug/TimeShift.csproj.FileListAbsolute.txt
 TimeShift/obj/Debug/TimeShift.csproj.CoreCompileInputs.cache
+/.vs
+/TimeShift/obj/Release
